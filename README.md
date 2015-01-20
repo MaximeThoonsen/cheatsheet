@@ -12,3 +12,6 @@ Change a char in a file : `sed -i 's/foo/bar/g'`
 
 Get the name of the collections `db.getCollectionNames()`
 
+## Vagrant 
+
+When a vm has a "runnning" status but all vm are shutdown, you can do `vagrant global-status --prune` to invalid wrong entries.
