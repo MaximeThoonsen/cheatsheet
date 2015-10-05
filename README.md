@@ -19,6 +19,6 @@ When a vm has a "runnning" status but all vm are shutdown, you can do `vagrant g
 ## Gif
 using recordmydesktop
 
-mplayer -ao null out.ogv -vo jpeg:outdir=output
-convert output/* output.gif15:25
-convert output.gif -fuzz 5% -layers Optimize optimised.gif
+    mplayer -ao null out.ogv -vo jpeg:outdir=output
+    convert output/* output.gif15:25
+    convert output.gif -fuzz 5% -layers Optimize optimised.gif
