@@ -24,5 +24,7 @@ using recordmydesktop
     convert output.gif -fuzz 5% -layers Optimize optimised.gif
 
 ## Shell
-
 http://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linux-prompt-like-angelina-jolie/
+
+## React
+http://ricostacruz.com/cheatsheets/react.html
