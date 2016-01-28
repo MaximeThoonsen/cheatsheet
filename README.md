@@ -28,3 +28,7 @@ http://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linu
 
 ## React
 http://ricostacruz.com/cheatsheets/react.html
+
+## Kernel and disk usage
+
+http://askubuntu.com/questions/119080/how-to-update-kernel-to-the-latest-mainline-version-without-any-distro-upgrade
